@@ -2,6 +2,6 @@
 
 project Llink deployed on netlify 
 
-# realestatekk.netlify.app
+[visit my project ](realestatekk.netlify.app)
 
 
